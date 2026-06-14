@@ -1,0 +1,6 @@
+{
+  "name": "Student Identity Card Generator",
+  "description": "A high-fidelity bulk student identity card generator supporting Excel/CSV parsing, column mapping, live 3D card preview, digital signature signing, and print-ready paper layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
